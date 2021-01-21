@@ -23,7 +23,7 @@
 
 - [![Посадочная страница турагенства (в работе)](https://github.com/katareena/travel)](https://github.com/katareena/travel)
 - [![Посадочная страница (стажировки в Израиле)](https://github.com/katareena/accelerator-israel)](https://github.com/katareena/accelerator-israel)
-- [![JS Challenge (junior) - js5, js6 ](https://github.com/katareena/js-challenge-1)](https://github.com/katareena/js-challenge-1), 
+- [![JS Challenge (junior) - js5, js6 ](https://github.com/katareena/js-challenge-1)](https://github.com/katareena/js-challenge-1),  <br>
 [+ Опубликованная версия](https://katareena.github.io/js-challenge-1/)
 
 </td></tr></table>
