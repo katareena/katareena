@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true" alt="foush's Github stats">
 </p><br>
 
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 **:memo: Заметки**
 
