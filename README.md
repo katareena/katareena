@@ -21,7 +21,8 @@
 
 **:star: Любимые репозитории**
 
-- [![Сайт ювелирного магазина (в работе) ](https://github.com/katareena/accelerator_jewellery)](https://github.com/katareena/accelerator_jewellery)
+- [![Сайт ювелирного магазина (в работе) ](https://github.com/katareena/accelerator_jewellery)](https://github.com/katareena/accelerator_jewellery), <br>
+[+ Опубликованная версия](https://katareena.github.io/accelerator_jewellery/)
 - [![Тестовое задание: Сайт компании грузоперевозчика (в работе)](https://github.com/katareena/transhub)](https://github.com/katareena/transhub)
 - [![JS Challenge (junior) - es5, es6 ](https://github.com/katareena/js-challenge-1)](https://github.com/katareena/js-challenge-1),  <br>
 [+ Опубликованная версия](https://katareena.github.io/js-challenge-1/)
