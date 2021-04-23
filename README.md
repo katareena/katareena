@@ -5,8 +5,13 @@
 <p align="center">
   Здесь я храню свои заметки и экспериментирую с кодом
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katareena&show_icons=true&locale=en&layout=compact" alt="katareena's most used language" width="400"/>
+</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true" alt="foush's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true" alt="katareena's Github stats" width="400">
 </p><br>
 
 <table align="center"><tr><td valign="top" width="50%">
