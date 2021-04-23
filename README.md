@@ -11,20 +11,19 @@
 
 <table align="center"><tr><td valign="top" width="50%">
 
+**:star: Любимые репозитории**
+
+- [![Сайт ювелирного магазина (в работе) ](https://github.com/katareena/accelerator_jewellery)](https://github.com/katareena/accelerator_jewellery),<br>
+[+ Опубликованная версия](https://katareena.github.io/accelerator_jewellery/)
+- [![Страница компании грузоперевозчика (в работе)](https://github.com/katareena/transhub)](https://github.com/katareena/transhub)
+- [![JS Challenge (junior) - es5, es6 ](https://github.com/katareena/js-challenge-1)](https://github.com/katareena/js-challenge-1),<br>
+[+ Опубликованная версия](https://katareena.github.io/js-challenge-1/)
+
+</td><td valign="top" width="50%">
+
 **:memo: Заметки**
 
 - [Список полезных ресурсов](https://gist.github.com/katareena/ceb671718e6d60102533d5a47b8fb624)
 - [Must Read](https://gist.github.com/katareena/976446c4325d16fddd88bb8c0eab2851)
-
-
-</td><td valign="top" width="50%">
-
-**:star: Любимые репозитории**
-
-- [![Сайт ювелирного магазина (в работе) ](https://github.com/katareena/accelerator_jewellery)](https://github.com/katareena/accelerator_jewellery), <br>
-[+ Опубликованная версия](https://katareena.github.io/accelerator_jewellery/)
-- [![Страница компании грузоперевозчика (в работе)](https://github.com/katareena/transhub)](https://github.com/katareena/transhub)
-- [![JS Challenge (junior) - es5, es6 ](https://github.com/katareena/js-challenge-1)](https://github.com/katareena/js-challenge-1),  <br>
-[+ Опубликованная версия](https://katareena.github.io/js-challenge-1/)
 
 </td></tr></table>
