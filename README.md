@@ -16,8 +16,8 @@
 
 **:memo: Заметки**
 
-- [Список полезных ресурсов](https://gist.github.com/katareena/ceb671718e6d60102533d5a47b8fb624)
-- [Must Read](https://gist.github.com/katareena/976446c4325d16fddd88bb8c0eab2851)
+- [Полезные ресурсы](https://gist.github.com/katareena/ceb671718e6d60102533d5a47b8fb624)
+- [Интересно почитать](https://gist.github.com/katareena/976446c4325d16fddd88bb8c0eab2851)
 
 
 </td><td valign="top" width="50%">
