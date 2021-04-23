@@ -5,12 +5,13 @@
 <p align="center">Здесь я храню свои заметки и экспериментирую с кодом</p>
 
 <table align="center"><tr><td valign="top" width="50%">
+  
 **:star: Любимые репозитории**
 
-- [![Сайт ювелирного магазина (в работе) ](https://github.com/katareena/accelerator_jewellery)](https://github.com/katareena/accelerator_jewellery),
+- [![Сайт ювелирного магазина (в работе) ](https://github.com/katareena/accelerator_jewellery)](https://github.com/katareena/accelerator_jewellery),<br>
 [+ Опубликованная версия](https://katareena.github.io/accelerator_jewellery/)
 - [![Страница компании грузоперевозчика (в работе)](https://github.com/katareena/transhub)](https://github.com/katareena/transhub)
-- [![JS Challenge (junior) - es5, es6 ](https://github.com/katareena/js-challenge-1)](https://github.com/katareena/js-challenge-1),
+- [![JS Challenge (junior) - es5, es6 ](https://github.com/katareena/js-challenge-1)](https://github.com/katareena/js-challenge-1),<br>
 [+ Опубликованная версия](https://katareena.github.io/js-challenge-1/)
 
 **:memo: Заметки**
