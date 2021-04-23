@@ -6,11 +6,11 @@
   Здесь я храню свои заметки и экспериментирую с кодом
 </p>
 
-<p align="left">
+<p align="left" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katareena&show_icons=true&locale=en&layout=compact" alt="katareena's most used language" width="400"/>
 </p>
 
-<p align="right">
+<p align="right" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true" alt="katareena's Github stats" width="400">
 </p><br>
 
