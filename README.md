@@ -27,7 +27,7 @@
 </p>
 
 <p align="top" max-width="400px">
-  <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true" alt="katareena's Github stats" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true&theme=vue" alt="katareena's Github stats" width="400px">
 </p><br>
 
 </td></tr></table>
