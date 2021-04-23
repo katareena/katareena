@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katareena&show_icons=true&locale=en&layout=compact" alt="katareena's most used language" width="400"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true" alt="katareena's Github stats" width="400">
 </p><br>
 
