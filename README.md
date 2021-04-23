@@ -23,7 +23,7 @@
 </td><td valign="top" width="50%">
 
 <p align="top" max-width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katareena&show_icons=true&locale=en&layout=compact" alt="katareena's most used language" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katareena&show_icons=true&locale=en&layout=compact&theme=vue" alt="katareena's most used language" width="400px"/>
 </p>
 
 <p align="top" max-width="400px">
