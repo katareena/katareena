@@ -23,11 +23,11 @@
 </td><td valign="top" width="50%">
 
 <p align="top" max-width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katareena&show_icons=true&locale=en&layout=compact&theme=outrun" alt="katareena's most used language" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katareena&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="katareena's most used language" width="400px"/>
 </p>
 
 <p align="top" max-width="400px">
-  <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true&hide=issues,contribs&theme=outrun" alt="katareena's Github stats" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=katareena&show_icons=true&border=true&hide=issues,contribs&theme=graywhite" alt="katareena's Github stats" width="400px">
 </p><br>
 
 </td></tr></table>
