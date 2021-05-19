@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://thumbs.gfycat.com/EnviousCookedBushbaby-size_restricted.gif" alt="Корги" width="400">
+  <img  src="https://thumbs.gfycat.com/EnviousCookedBushbaby-size_restricted.gif" alt="Корги" width="350">
 </p>
 <h2 align="center">Привет <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif">, меня зовут Катя</h2>
 <p align="center">Здесь я храню свои заметки и экспериментирую с кодом</p>
@@ -10,7 +10,8 @@
 
 - [![Сайт ювелирного магазина (в работе) ](https://github.com/katareena/accelerator_jewellery)](https://github.com/katareena/accelerator_jewellery),<br>
 [+ Опубликованная версия](https://katareena.github.io/accelerator_jewellery/)
-- [![Страница компании грузоперевозчика (в работе)](https://github.com/katareena/transhub)](https://github.com/katareena/transhub)
+- [![Страница компании грузоперевозчика (в работе)](https://github.com/katareena/transhub)](https://github.com/katareena/transhub),<br>
+[+ Опубликованная версия](https://katareena.github.io/transhub/)
 - [![JS Challenge (junior) - es5, es6 ](https://github.com/katareena/js-challenge-1)](https://github.com/katareena/js-challenge-1),<br>
 [+ Опубликованная версия](https://katareena.github.io/js-challenge-1/)
 
