@@ -3,7 +3,7 @@
 
 <table align="center"><tr><td valign="top" width="50%">
   
-**:star: Любимые репозитории**
+**:star: Любимые pet-projects**
 
 - [![Адаптивный сайт ювелирного магазина (в работе) ](https://github.com/katareena/accelerator_jewellery)](https://github.com/katareena/accelerator_jewellery),<br>
 [+ Опубликованная версия](https://katareena.github.io/accelerator_jewellery/)
