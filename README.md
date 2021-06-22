@@ -1,6 +1,3 @@
-<p align="center">
-  <img  src="https://thumbs.gfycat.com/EnviousCookedBushbaby-size_restricted.gif" alt="Корги" width="350">
-</p>
 <h2 align="center">Привет <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif">, меня зовут Катя</h2>
 <p align="center">Здесь я храню свои заметки и экспериментирую с кодом</p>
 
