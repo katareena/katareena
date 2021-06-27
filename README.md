@@ -10,8 +10,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
 ![LESS](https://img.shields.io/badge/-LESS-333333?style=flat&logo=LESS)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 
 🛠 Инструменты:
 
