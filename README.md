@@ -7,7 +7,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
+![SCSS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
 ![LESS](https://img.shields.io/badge/-LESS-333333?style=flat&logo=LESS)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
