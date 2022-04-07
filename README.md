@@ -12,8 +12,7 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 
 ### 👩🏻‍🎓 Currently learning:
 - React;
-- Redux;
-- TypeScript.
+- Redux.
 
 ### 💻 Some of my educational and pet-projects:
 
