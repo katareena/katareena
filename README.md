@@ -8,7 +8,6 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 - **Styling:** SCSS/LESS;
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Figma, Zeplin;
-- **Others:** git, vsCode;
 
 ### 👩🏻‍🎓 Currently learning:
 - React;
