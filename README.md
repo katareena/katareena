@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Katerina <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"><br>
+<h2 align="left">Hi! I'm Katerina <img width="30" height="30" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"><br>
 Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 </h2>
 
@@ -22,6 +22,7 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 
 <p align="center">
 <a href="mailto:w10160177@gmail.com"><img height="30" src="https://raw.githubusercontent.com//katareena/katareena/master/003-email.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ekaterina-reznikova/"><img height="30" src="https://raw.githubusercontent.com//katareena/katareena/master/001-linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://t.me/katareenaa"><img height="30" src="https://raw.githubusercontent.com//katareena/katareena/master/004-telegram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/katareena/"><img height="30" src="https://www.codewars.com/users/katareena/badges/micro"></a>
 </p>
