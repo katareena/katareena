@@ -18,6 +18,7 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
+| [What To Watch (in progress)](https://github.com/katareena/1018255-what-to-watch-10) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Webpack |
 | [Six Cities](https://github.com/katareena/six-cities) | App to book accommodation in different cities with the possibility to leave reviews for accommodation, add in favorites list if you login, sorting according to preferences and showing all accommodations on the map. | React, Redux, Leaflet.js, Webpack, Jest, React Testing Library
 | [Big Trip](https://github.com/katareena/1018255-big-trip-16) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | JavaScript (ES6), Chart.js, Day.js, Flatpickr.js, Webpack |
 | [Jewelry Store Website](https://github.com/katareena/accelerator_jewellery) | Adaptive multi-page website. Made without third-party libraries: slider with dynamic pagination generation, accordion, modal windows, form validation. | JavaScript (ES6), HTML5, SCSS, Gulp |
