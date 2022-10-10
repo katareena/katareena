@@ -14,7 +14,7 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 ### 👩🏻‍🎓 Currently learning:
 - TypeScript.
 
-### 💻 Some of my educational and pet-projects:
+### 💻 Some of my pet-projects:
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
