@@ -7,7 +7,6 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 - **Frontend:** React (with React hooks), JavaScript (ES6+), DOM API, HTML5, CSS, BEM, UX/accessibility;
 - **Styling:** Styled Components, Sass(SCSS)/LESS;
 - **State management:** Redux;
-- **Testing libraries:** Jest, React Testing Library;
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Figma, Zeplin.
 
