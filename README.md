@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Katerina <img width="30" height="30" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"><br>
+<h2 align="left">Hi! I'm Katerina 👋<br>
 Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 </h2>
 
