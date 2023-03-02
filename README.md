@@ -17,7 +17,7 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
-| [Find Your Beer of Choice](https://github.com/katareena/punk-beer) | App to searching beers. | TypeScript, React, Context, React Router 6.6, Punk API, SCSS, responsive-layout, Chrome, Firefox |
+| [Find Your Beer of Choice](https://github.com/katareena/punk-beer) | Mini app to searching beers. | TypeScript, React, Context, React Router 6.6, Punk API, SCSS, responsive-layout, Chrome, Firefox |
 | [What To Watch](https://github.com/katareena/1018255-what-to-watch-10) | Online cinema app with ability to log in, add to favorites list if you login, rate, comment and watch movies. | TypeScript, React, Redux, React Router 6.2 |
 | [Six Cities](https://github.com/katareena/six-cities) | App to book accommodation in different cities with the possibility to leave reviews for accommodation, add to favorites list if you login, sorting according to preferences and showing all accommodations on the map. | JavaScript (ES6+), React, Redux, React Router 5, Leaflet.js |
 | [Big Trip](https://github.com/katareena/1018255-big-trip-16) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | JavaScript (ES6+), MVP architectural pattern, Chart.js, Day.js, Flatpickr.js |
