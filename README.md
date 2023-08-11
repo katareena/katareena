@@ -19,7 +19,6 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 | ------------- | ------------- | ----- |
 | [ImageHub](https://github.com/katareena/imagehub)<br><br>[Demo](https://imagehub.vercel.app/) | Photo inspiration application with the ability to search and add photos to the favorites list, infinite scrolling (virtualization in progress) and lazy-loading images. | TypeScript, React, React Router 6, SCSS, responsive-layout |
 | [What To Watch](https://github.com/katareena/1018255-what-to-watch-10)<br><br>[Demo](https://1018255-what-to-watch-10.vercel.app/) | Online cinema app with ability to log in, add to favorites list if you login, rate, comment and watch movies. | TypeScript, React, Redux, React Router 6 |
-| [Jewelry Store](https://github.com/katareena/accelerator_jewellery)<br><br>[Demo](https://katareena.github.io/accelerator_jewellery/) | Adaptive multi-page website. Made without third-party libraries: slider with dynamic pagination generation, accordion, modal windows, form validation. | HTML5, SCSS, responsive-layout, Gulp |
 
 <p align="center">
 <a href="mailto:w10160177@gmail.com"><img height="30" src="https://raw.githubusercontent.com//katareena/katareena/master/003-email.svg"></a>&nbsp;&nbsp;
