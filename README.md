@@ -7,7 +7,7 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 - **Frontend:** React (with React hooks), JavaScript, HTML5, CSS, BEM, UX/accessibility;
 - **Styling:** css-in-js (Styled Components, MUI), Scss/Less, CSS modules;
 - **State management:** Redux / Redux Toolkit;
-- **Code bundlers:** Gulp, Webpack;
+- **Code bundlers:** Webpack;
 - **UX/UI:** Figma, Zeplin.
 
 ### 👩🏻‍🎓 Currently learning:
