@@ -12,17 +12,7 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 
 ### 👩🏻‍🎓 Currently learning:
 - TypeScript.
-
-### 💻 Some of my pet-projects:
-
-| Project name        | Description          | Technologies  |
-| ------------- | ------------- | ----- |
-| [ImageHub](https://github.com/katareena/imagehub)<br><br>[Demo](https://imagehub.vercel.app/) | Photo inspiration app with the ability to search and add photos to the favorites list, infinite virtual scrolling and lazy-loading images. | TypeScript, React, React Router 6, SCSS, responsive-layout |
-| [What To Watch](https://github.com/katareena/1018255-what-to-watch-10)<br><br>[Demo](https://1018255-what-to-watch-10.vercel.app/) | Online cinema app with ability to log in(just input some test email and password), form validation, add to favorites list if you login; preview, rate, comment and watch movies. | TypeScript, React, Redux, React Router 6 |
-| [Six Cities](https://github.com/katareena/six-cities)<br><br>[Demo](https://six-cities-rho.vercel.app/) | App to book accommodation in different cities with the possibility to leave reviews for accommodation, add to favorites list if you login, sorting according to preferences and showing all accommodations on the map. | JavaScript (ES6+), React, Redux, React Router 5, Leaflet.js |
-| [Big Trip](https://github.com/katareena/1018255-big-trip-16)<br><br>[Demo](https://katareena.github.io/1018255-big-trip-16/) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | JavaScript (ES6+), MVP architectural pattern, Chart.js, Day.js, Flatpickr.js |
-
-<p align="center">
+<p>
 <a href="mailto:w10160177@gmail.com"><img height="30" src="https://raw.githubusercontent.com//katareena/katareena/master/003-email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ekaterina-reznikova/"><img height="30" src="https://raw.githubusercontent.com//katareena/katareena/master/001-linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/katareena/"><img height="30" src="https://www.codewars.com/users/katareena/badges/micro"></a>
