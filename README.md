@@ -4,8 +4,8 @@ Welcome to my GitHub page! Here I keep my notes and experiment with the code.
 
 ### 🛠 My tech stack:
 
-- **Frontend:** React (with React hooks), JavaScript, HTML5, CSS, BEM, UX/accessibility;
-- **Styling:** css-in-js (Styled Components, MUI), Scss/Less, CSS modules;
+- **Frontend:** React, JavaScript, HTML5, CSS, BEM, UX/accessibility;
+- **Styling:** Styled-сomponents, Material UI (Emotion), Scss/Less, CSS modules;
 - **State management:** Redux / Redux Toolkit;
 - **Code bundlers:** Webpack;
 - **UX/UI:** Figma, Zeplin.
